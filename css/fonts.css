@@ -1,0 +1,44 @@
+@font-face {
+	font-family: Hind;
+	src:url("../fonts/HindRegular/HindRegular.woff2") format("woff2"),
+			url("../fonts/HindRegular/HindRegular.ttf") format("truetype"),
+			url("../fonts/HindRegular/HindRegular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Hind;
+	src:url("../fonts/HindBold/HindBold.woff2") format("woff2"),
+			url("../fonts/HindBold/HindBold.ttf") format("truetype"),
+			url("../fonts/HindBold/HindBold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src:url("../fonts/MontserratRegular/MontserratRegular.woff2") format("woff2"),
+			url("../fonts/MontserratRegular/MontserratRegular.ttf") format("truetype"),
+			url("../fonts/MontserratRegular/MontserratRegular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src:url("../fonts/MontserratBold/MontserratBold.woff2") format("woff2"),
+			url("../fonts/MontserratBold/MontserratBold.ttf") format("truetype"),
+			url("../fonts/MontserratBold/MontserratBold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src:url("../fonts/MontserratExtraLight/MontserratExtraLight.woff2") format("woff2"),
+			url("../fonts/MontserratExtraLight/MontserratExtraLight.ttf") format("truetype"),
+			url("../fonts/MontserratExtraLight/MontserratExtraLight.woff") format("woff");
+	font-weight: 200;
+	font-style: normal;
+}
